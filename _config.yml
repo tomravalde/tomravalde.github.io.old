@@ -3,9 +3,9 @@
 # ----------------------- #
 
 url: http://tomravalde.github.io
-title: My Octopress Blog
+title: Tom Ravalde
 subtitle: A blogging framework for hackers.
-author: Your Name
+author: Tom Ravalde
 simple_search: http://google.com/search
 description:
 
@@ -63,13 +63,13 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/delicious.
 # ----------------------- #
 
 # Github repositories
-github_user:
-github_repo_count: 0
+github_user: tomravalde
+github_repo_count: 3
 github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user:
+twitter_user: @adTominem
 twitter_tweet_button: true
 
 # Google +1
