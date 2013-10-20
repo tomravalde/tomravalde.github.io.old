@@ -6,3 +6,5 @@ comments: true
 sharing: true
 footer: true
 ---
+
+I am studying for a PhD in the Department of Civil and Environmental Engineering at Imperial College London.
