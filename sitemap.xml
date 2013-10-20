@@ -1,23 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://tomravalde.github.io/blog/2013/10/19/hello-world/</loc>
+        <loc>http://tomravalde.co.uk/blog/2013/10/19/hello-world/</loc>
         <lastmod>2013-10-19T11:21:54+01:00</lastmod>
     </url>
     <url>
-        <loc>http://tomravalde.github.io/robots.txt</loc>
+        <loc>http://tomravalde.co.uk/robots.txt</loc>
         <lastmod>2013-10-19T11:11:18+01:00</lastmod>
     </url>
     <url>
-        <loc>http://tomravalde.github.io/about/</loc>
-        <lastmod>2013-10-20T01:03:52+01:00</lastmod>
+        <loc>http://tomravalde.co.uk/about/</loc>
+        <lastmod>2013-10-20T23:01:04+01:00</lastmod>
     </url>
     <url>
-        <loc>http://tomravalde.github.io/</loc>
+        <loc>http://tomravalde.co.uk/</loc>
         <lastmod>2013-10-19T11:21:54+01:00</lastmod>
     </url>
     <url>
-        <loc>http://tomravalde.github.io/blog/archives/</loc>
+        <loc>http://tomravalde.co.uk/blog/archives/</loc>
         <lastmod>2013-10-19T11:21:54+01:00</lastmod>
     </url>
 </urlset>
