@@ -10,7 +10,7 @@
 
   
   <meta name="description" content="Blog Archive 2013 Hello world
-Oct 19 2013 Recent Posts Hello world Tweets Status updating... $.domReady(function(){ getTwitterFeed("tomravalde", 4 &hellip;">
+Oct 19 2013 Recent Posts Hello world Latest Tweets Status updating... $.domReady(function(){ getTwitterFeed(" &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -19,19 +19,17 @@ Oct 19 2013 Recent Posts Hello world Tweets Status updating... $.domReady(functi
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   
-  <link rel="canonical" href="http://tomravalde.co.uk/blog/archives">
+  <link rel="canonical" href="http://tomravalde.co.uk/blog/archives/">
   <link href="/favicon.png" rel="icon">
   <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
-  <link href="/atom.xml" rel="alternate" title="Tom Ravalde" type="application/atom+xml">
   <script src="/javascripts/modernizr-2.0.js"></script>
-  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-  <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/lib/jquery.min.js"%3E%3C/script%3E'))</script>
+  <script src="/javascripts/ender.js"></script>
   <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <link href="/atom.xml" rel="alternate" title="Tom Ravalde" type="application/atom+xml">
   <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
 <link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
-<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
-<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-<link href='http://fonts.googleapis.com/css?family=Fjalla+One' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,400italic' rel='stylesheet' type='text/css'>
+
   
   <script type="text/javascript">
     var _gaq = _gaq || [];
@@ -48,28 +46,13 @@ Oct 19 2013 Recent Posts Hello world Tweets Status updating... $.domReady(functi
 
 </head>
 
-<body   class="collapse-sidebar sidebar-footer" >
-  <header role="banner">
-</header>
-  <nav role="navigation"><ul class="subscription" data-subscription="rss">
-  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
-  
-</ul>
-  
-<form action="http://google.com/search" method="get">
-  <fieldset role="search">
-    <input type="hidden" name="q" value="site:tomravalde.co.uk" />
-    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
-  </fieldset>
-</form>
-  
-<ul class="main-navigation">
-  <li><a href="/">Blog</a></li>
-  <li><a href="/blog/archives">Archives</a></li>
-  <li><a href="/about">About</a></li>
-</ul>
+<body   >
+  <header role="banner"><hgroup>
+  <img src="/images/ah_frame_transparent.png" />
+  <h1><a href="/">Tom Ravalde</a></h1>
+</hgroup>
 
-</nav>
+</header>
   <div id="main">
     <div id="content">
       <div>
@@ -91,6 +74,7 @@ Oct 19 2013 Recent Posts Hello world Tweets Status updating... $.domReady(functi
   
 <h1><a href="/blog/2013/10/19/hello-world/">Hello world</a></h1>
 <time datetime="2013-10-19T11:11:00+01:00" pubdate><span class='month'>Oct</span> <span class='day'>19</span> <span class='year'>2013</span></time>
+
 
 </article>
 
@@ -114,8 +98,8 @@ Oct 19 2013 Recent Posts Hello world Tweets Status updating... $.domReady(functi
   </ul>
 </section>
 
-<section id="twitter">
-  <h1 class="tweets">Tweets</h1>
+<section>
+  <h1>Latest Tweets</h1>
   <ul id="tweets">
     <li class="loading">Status updating...</li>
   </ul>
@@ -140,7 +124,7 @@ Oct 19 2013 Recent Posts Hello world Tweets Status updating... $.domReady(functi
   <a href="https://github.com/tomravalde">@tomravalde</a> on GitHub
   
   <script type="text/javascript">
-    $(document).ready(function(){
+    $.domReady(function(){
         if (!window.jXHR){
             var jxhr = document.createElement('script');
             jxhr.type = 'text/javascript';
@@ -168,8 +152,8 @@ Oct 19 2013 Recent Posts Hello world Tweets Status updating... $.domReady(functi
     </div>
   </div>
   <footer role="contentinfo"><p>
-  Copyright &copy; 2013 - Tom Ravalde <br/>
-  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a>, customized with <a href="https://github.com/mjhea0/whiterspace">whiterspace</a>.</span>
+  Copyright &copy; 2013 - Tom Ravalde -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
 </p>
 
 </footer>
@@ -207,6 +191,9 @@ Oct 19 2013 Recent Posts Hello world Tweets Status updating... $.domReady(functi
 
 
 
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+<script src="/javascripts/aharris.js"></script>
 
 </body>
 </html>
