@@ -4,7 +4,7 @@
   <title><![CDATA[Tom Ravalde]]></title>
   <link href="http://tomravalde.co.uk/atom.xml" rel="self"/>
   <link href="http://tomravalde.co.uk/"/>
-  <updated>2013-10-27T12:18:06+00:00</updated>
+  <updated>2013-10-27T12:27:42+00:00</updated>
   <id>http://tomravalde.co.uk/</id>
   <author>
     <name><![CDATA[Tom Ravalde]]></name>
@@ -18,9 +18,11 @@
     <link href="http://tomravalde.co.uk/blog/2013/10/19/hello-world/"/>
     <updated>2013-10-19T11:11:00+01:00</updated>
     <id>http://tomravalde.co.uk/blog/2013/10/19/hello-world</id>
-    <content type="html"><![CDATA[<h2>Heading</h2>
+    <content type="html"><![CDATA[<h2>Welcome</h2>
 
-<p>Hello world. Welcome to my Octopress blog.</p>
+<p>Hello world. Welcome to my blog, powered by <a href="https://www.octopress.org">Octopress</a> blog.</p>
+
+<h2>About</h2>
 ]]></content>
   </entry>
   
