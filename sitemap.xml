@@ -2,7 +2,6 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://tomravalde.co.uk/blog/2013/10/19/hello-world/</loc>
-<<<<<<< HEAD
         <lastmod>2014-11-12T19:16:28+00:00</lastmod>
     </url>
     <url>
@@ -20,32 +19,5 @@
     <url>
         <loc>http://tomravalde.co.uk/about/</loc>
         <lastmod>2014-11-12T19:25:49+00:00</lastmod>
-=======
-        <lastmod>2014-03-24T20:50:19+00:00</lastmod>
-    </url>
-    <url>
-        <loc>http://tomravalde.co.uk/robots.txt</loc>
-        <lastmod>2014-03-24T20:50:19+00:00</lastmod>
-    </url>
-    <url>
-        <loc>http://tomravalde.co.uk/about/</loc>
-        <lastmod>2014-03-24T20:52:33+00:00</lastmod>
-    </url>
-    <url>
-        <loc>http://tomravalde.co.uk/archives/</loc>
-        <lastmod>2014-03-24T20:50:19+00:00</lastmod>
-    </url>
-    <url>
-        <loc>http://tomravalde.co.uk/</loc>
-        <lastmod>2014-03-24T21:12:49+00:00</lastmod>
-    </url>
-    <url>
-        <loc>http://tomravalde.co.uk/blog/archives/</loc>
-        <lastmod>2014-03-24T20:50:19+00:00</lastmod>
-    </url>
-    <url>
-        <loc>http://tomravalde.co.uk/blog/</loc>
-        <lastmod>2014-03-24T21:13:00+00:00</lastmod>
->>>>>>> 9ad6a86213dd9ad340264faf38ed70c92babf400
     </url>
 </urlset>
